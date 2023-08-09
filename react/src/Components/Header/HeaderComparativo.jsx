@@ -6,8 +6,7 @@ export function HeaderComparativo() {
   return (
     <header className="headerComparativo">
       <Link to="/InterfazJugadores" className="banner_volver">
-        <Icon component={KeyboardReturnIcon} className="banner_volver-icon" sx={{ fontSize: '50px' }} />
-
+        <Icon component={KeyboardReturnIcon} className="banner_volver-icon" sx={{ fontSize: '50px',  color: 'white','&:hover': { color:'black',},}} />
       </Link>
       <Link className="header__companyComparativo">
         <h1 className="header__company-nameComparativo">Scouters</h1>
