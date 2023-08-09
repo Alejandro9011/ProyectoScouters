@@ -57,7 +57,7 @@ El objetivo principal de Scouters es facilitar el proceso de seguimiento y evalu
 # Instalación
 
 1. Clonar el proyecto
-2. git clone https://github.com/Danizetaeme/Proyecto_Scouters.git
+2. git clone https://github.com/Alejandro9011/ProyectoScouters
 3. Instalar las dependencias del front-end y back-end con el comando:
 
 * npm install
